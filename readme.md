@@ -43,12 +43,3 @@
 * [subprocess — Subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)
 * [urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
 * [urllib.request — Extensible library for opening URLs](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)
-https://github.com/python-elective-2-spring-2019/Lesson-01-Introduction-to-the-Python-elective.git
-https://github.com/python-elective-2-spring-2019/Lesson-02-Introduction-to-Python-and-Python-Strings.git
-https://github.com/python-elective-2-spring-2019/Lesson-03-Python-Types-simple-types-Lists-Tuples-and-Sorting.git
-https://github.com/python-elective-2-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files.git
-https://github.com/python-elective-2-spring-2019/Lesson-05-Python-Utilities-and-Modules.git
-https://github.com/python-elective-2-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise.git
-https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise.git
-https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise.git
-https://github.com/python-elective-2-spring-2019/python-elective-2-spring-2019.github.io.git
