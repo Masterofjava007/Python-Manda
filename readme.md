@@ -1,4 +1,4 @@
--MANADATORY 
+- MANADATORY 
 * [3. An Informal Introduction to Python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. Using Python as a Calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
 * [3.1.1. Numbers](https://docs.python.org/3.7/tutorial/introduction.html#numbers)
